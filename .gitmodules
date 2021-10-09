@@ -1,0 +1,3 @@
+[submodule "corsica"]
+	path = corsica
+	url = https://github.com/think-biq/corsica
